@@ -1,0 +1,17 @@
+{
+  "name": "ticketbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Start.js",
+  "scripts": {
+    "start": "nodemon Start.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
